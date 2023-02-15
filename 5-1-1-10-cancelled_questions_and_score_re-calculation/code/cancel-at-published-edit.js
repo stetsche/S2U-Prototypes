@@ -83,15 +83,13 @@ function cancelQuestion() {
     pointInput.value = "0.0";
     const question = document.querySelector(".samigo-question-callout");
     question.style.opacity = 0.7;
-/*
-    const bannerText = "This question has been cancelled."
-                + "not affect the total score.";
+    const bannerText = "This question has been cancelled and will "
+            + "not affect the total score.";
     question.insertAdjacentHTML("beforeend",`
         <div class="sak-banner-info cancelled-question-info">
             ${bannerText}
         </div>
     `);
-*/
     cancelActions[0].nextElementSibling.remove();
     cancelActions[0].remove();
 }
