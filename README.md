@@ -10,7 +10,8 @@
 
 * [5.1.1.17 Safe Exam Browser Sakai integration](5-1-1-17-safe-exam-browser/safe-exam-browser-prototype.md)
 
+* [5.1.1.20 Tests & Quizzes: Improve event log UI](5-1-1-20-improve-event-log-ui/event-log.md)
+
 * [5.1.3.01 Messages: Convert a private message into a forum message in the FAQ forum](5-1-3-01-publish-private-message-to-faq-forum/message-to-faq.md)
 
 * [5.2.6.01 Roster: The Card Game!](5-2-6-01-the-card-game/the-card-game-prototype.md)
-
