@@ -1,7 +1,8 @@
 # Tests & Quizzes: Sorting question pools by folders and usage statistics
 
-A new column is added to the question pool table that displays all the tags the question pool is assotiated
-with.
+A new column is added to the question pool table that displays all the tags the question pool is associated
+with. It is also possible to use the input above the table to filter by tags. If there are sub pools, when any
+of the parent or sub pool matches the the searched tag, all pools of this branch will display. 
 
 ![Question pool table view](screenshots/qp-table.png)
 
